@@ -1,4 +1,4 @@
-BaseUrl= "https://syui.cf/hugo-theme-air/"
+BaseUrl= "#"
 LanguageCode= "en-US"
 Title= "Cargo Start"
 paginate = 5
