@@ -9,4 +9,4 @@ share = true	# set false to hide share buttons
 menu= "main"		# set "main" to add this content to the main menu
 author = ""
 +++
-Stay tuned, soon this site will keep updated by the Cargo Start Team!
+Stay tuned; soon, we will keep you updated!
