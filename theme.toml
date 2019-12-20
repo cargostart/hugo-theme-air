@@ -1,7 +1,7 @@
 name = "Air"
 license = "MIT"
 licenselink = ""
-description = "Casper theme from Ghost Foundation, Plus particles.js"
+description = "CargoStart Landing Page"
 homepage = ""
 tags = ["blog"]
 features = ["disqus", "google analytics","share"]
