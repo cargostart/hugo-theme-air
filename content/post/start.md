@@ -1,7 +1,7 @@
 +++
-date = "2014-07-11T10:54:24+02:00"
+date = "2019-12-20T10:54:24+02:00"
 draft = false
-title = "Stay Tune"
+title = "Stay Tuned"
 slug = "post-title"
 image = ""
 comments = false	# set false to hide Disqus
