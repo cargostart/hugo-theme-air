@@ -5,7 +5,7 @@ title = "Stay Tuned"
 slug = "post-title"
 image = ""
 comments = false	# set false to hide Disqus
-share = true	# set false to hide share buttons
+share = false	# set false to hide share buttons
 menu= "main"		# set "main" to add this content to the main menu
 author = ""
 +++
